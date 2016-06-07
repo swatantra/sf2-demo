@@ -585,7 +585,7 @@ class NameValidator extends ConstraintValidator
 }
 ```
 
-### DependencyInjection ###
+### Dependency Injection ###
 
 `sfdiconfiguration`
 
